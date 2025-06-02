@@ -1,6 +1,3 @@
--Hi, I’m Muba
--I’m interested in learning programming with open source codes
--I’m currently learning c++
 -You can reach me via email "mubashshiremani1@gmai.com"
 
 <!---
